@@ -1,5 +1,12 @@
 testing-github
 ==============
 
-[ ] taks 1
-[ ] task 2
+- [ ] single task
+
+
+
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
